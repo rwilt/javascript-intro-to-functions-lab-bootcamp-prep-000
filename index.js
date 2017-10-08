@@ -25,8 +25,6 @@ if (string === lowercase)
   return "I can\'t hear you!"
 else if (string === uppercase)
  return "YES INDEED!";
- else 
-   (string != (string.lowerCase(), string.toUpperCase())
-   return "I love you, too.";
-
+ else (string === "I love you, Grandma.")
+ return "I love you, too."
 // i cant hear you, yes indeed, i love you too
