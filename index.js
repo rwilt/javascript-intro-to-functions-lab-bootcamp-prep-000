@@ -22,7 +22,7 @@ var uppercase = string.toUpperCase()
 var mixedCase = "I love you, Grandma."
 
 if (string === lowercase)
-  return "I can\'t hear you!"
+  return "I can\'t hear you!";
 else if (string === uppercase)
  return "YES INDEED!";
  else (string === "I love you, Grandma.")
